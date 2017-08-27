@@ -1,0 +1,15 @@
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Api\bin\Release\netcoreapp2.0\TestEF.Api.deps.json
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Api\bin\Release\netcoreapp2.0\TestEF.Api.runtimeconfig.json
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Api\bin\Release\netcoreapp2.0\TestEF.Api.runtimeconfig.dev.json
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Api\bin\Release\netcoreapp2.0\TestEF.Api.dll
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Api\bin\Release\netcoreapp2.0\TestEF.Api.pdb
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Api\bin\Release\netcoreapp2.0\TestEF.Data.dll
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Api\bin\Release\netcoreapp2.0\TestEF.Dommain.dll
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Api\bin\Release\netcoreapp2.0\TestEF.Data.pdb
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Api\bin\Release\netcoreapp2.0\TestEF.Dommain.pdb
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Api\obj\Release\netcoreapp2.0\TestEF.Api.csprojResolveAssemblyReference.cache
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Api\obj\Release\netcoreapp2.0\TestEF.Api.csproj.CoreCompileInputs.cache
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Api\obj\Release\netcoreapp2.0\TestEF.Api.AssemblyInfoInputs.cache
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Api\obj\Release\netcoreapp2.0\TestEF.Api.AssemblyInfo.cs
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Api\obj\Release\netcoreapp2.0\TestEF.Api.dll
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Api\obj\Release\netcoreapp2.0\TestEF.Api.pdb

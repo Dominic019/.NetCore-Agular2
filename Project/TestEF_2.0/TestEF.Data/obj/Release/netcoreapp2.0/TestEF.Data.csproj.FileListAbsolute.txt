@@ -1,0 +1,11 @@
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Data\bin\Release\netcoreapp2.0\TestEF.Data.deps.json
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Data\bin\Release\netcoreapp2.0\TestEF.Data.dll
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Data\bin\Release\netcoreapp2.0\TestEF.Data.pdb
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Data\bin\Release\netcoreapp2.0\TestEF.Dommain.dll
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Data\bin\Release\netcoreapp2.0\TestEF.Dommain.pdb
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Data\obj\Release\netcoreapp2.0\TestEF.Data.csprojResolveAssemblyReference.cache
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Data\obj\Release\netcoreapp2.0\TestEF.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Data\obj\Release\netcoreapp2.0\TestEF.Data.AssemblyInfoInputs.cache
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Data\obj\Release\netcoreapp2.0\TestEF.Data.AssemblyInfo.cs
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Data\obj\Release\netcoreapp2.0\TestEF.Data.dll
+C:\Users\Dominic19\Documents\Visual Studio 2017\Projects\TestEF_2.0\TestEF.Data\obj\Release\netcoreapp2.0\TestEF.Data.pdb
