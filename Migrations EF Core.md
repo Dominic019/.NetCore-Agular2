@@ -19,11 +19,11 @@ Npgsql.EntityFrameworkCore.PostgreSQL.Design
 
 _Nota: Esto fue provado en un projecto .Net Core 2.0_
 
-* > Copiar **ef.dll** en la carpeta donde esta el proyecto        publicado.  
+* > Copiar **ef.dll** en la carpeta donde esta el proyecto publicado.  
 
   > Para mi este se encuentra en _C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.entityframeworkcore.tools\2.0.0\tools\netcoreapp2.0_
 
 * >Ejecutar el archivo migrations2.bat  
-  `migrations2 <Nombre proyecto> <nombre proyecto de inicio>`  
+  `ef_database-update <Nombre proyecto> <nombre proyecto de inicio>`  
     
   >Esto ejecuta todas las migraciones en la base de datos objetivo
