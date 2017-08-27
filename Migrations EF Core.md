@@ -27,3 +27,6 @@ _Nota: Esto fue provado en un projecto .Net Core 2.0_
   `ef_database-update <Nombre proyecto> <nombre proyecto de inicio>`  
     
   >Esto ejecuta todas las migraciones en la base de datos objetivo
+
+## Data Seed
+* [Tuto Microsoft](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/complex-data-model)
